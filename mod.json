@@ -1,0 +1,16 @@
+{
+	"displayName": "MarauderVariants",
+	"version": "1.0",
+	"buildNumber": 5,
+	"description": "",
+	"author": "Whitehelm",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/DLC1/CareerMode/Sidequests/Davion/D2/Career_PickingUpThePieces/D2_Prompt2.uasset"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}

@@ -1,0 +1,5 @@
+"D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/*" "../../../MW5Mercs/Plugins/MarauderVariants/Content/"
+"D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/ModOverride/*" "../../../MW5Mercs/Content/"
+"D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/ModOverride/WwiseAudio/*" "../../../MW5Mercs/Content/WwiseAudio/"
+"D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Config/*" "../../../MW5Mercs/Config/"
+"D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/AssetRegistry.bin" "../../../MW5Mercs/Plugins/MarauderVariants/"
