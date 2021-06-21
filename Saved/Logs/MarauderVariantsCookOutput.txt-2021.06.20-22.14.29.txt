@@ -1,0 +1,1520 @@
+﻿Log file open, 06/20/21 22:14:30
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin OnlineSubsystemCrossplay
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin Ansel
+LogPluginManager: Mounting plugin DLSS
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ChromaSDKPlugin
+LogPluginManager: Mounting plugin ImpostorBaker
+LogPluginManager: Mounting plugin DialoguePlugin
+LogPluginManager: Mounting plugin LowEntryJson
+LogPluginManager: Mounting plugin MechRewards
+LogPluginManager: Mounting plugin MarauderVariants
+LogPluginManager: Mounting plugin MWShaders
+LogPluginManager: Mounting plugin OceanPlugin
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogPluginManager: Mounting plugin BinkMediaPlayer
+LogPluginManager: Mounting plugin BinkMediaPlayerEditor
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: Null
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Null]
+LogAnsel: Tried to load ../../../Engine/Plugins/Runtime/Nvidia/Ansel/Binaries/ThirdParty/AnselSDK64.dll : success=1
+LogDLSSNGXVulkanRHIPreInit: FNGXVulkanRHIPreInitModule::StartupModule Enter
+LogDLSSNGXVulkanRHIPreInit: This UE4 instance does not render; skipping of pregistering the required NGX DLSS Vulkan device and instance extensions via the VulkanRHIBridge
+LogDLSSNGXVulkanRHIPreInit: FNGXVulkanRHIPreInitModule::StartupModule Leave
+LogInit: Build: ++UE4+Release-4.26-CL-0
+LogInit: Engine Version: 4.26.1-0+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-0+++UE4+Release-4.26
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jun  3 2021 12:34:18
+LogInit: Compiled with Visual C++: 19.28.29913.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  D:\MechWarrior5Editor\MW5Mercs\MW5Mercs.uproject -run=Cook -TargetPlatform=WindowsNoEditor -DLCName=MarauderVariants -DLCSubstitutionsContentPath=ModOverride -basedonreleaseversion=1.0 -fileopenlog -abslog=D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Logs/MarauderVariantsCookOutput.txt-2021.06.20-22.14.29.txt -stdout -CrashForUAT -unattended -UTF8Output -Unversioned -abslog=D:\MechWarrior5Editor\Engine\Programs\AutomationTool\Saved\Cook-2021.06.20-22.14.29.txt -stdout -CrashForUAT -unattended -NoLogTimes
+LogInit: Base Directory: D:/MechWarrior5Editor/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:30.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogConfig: Setting CVar [[s.AsyncLoadingTimeLimit:15.0]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.MW.RHIThread.Enable:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[r.RayTracing:1]]
+LogConfig: Setting CVar [[r.RayTracing.Shadows:1]]
+LogConfig: Setting CVar [[r.RayTracing.Reflections:1]]
+LogConfig: Setting CVar [[r.RayTracing.AmbientOcclusion:0]]
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.MW.RHIThread.Enable:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[r.RayTracing:1]]
+LogConfig: Setting CVar [[r.RayTracing.Shadows:1]]
+LogConfig: Setting CVar [[r.RayTracing.Reflections:1]]
+LogConfig: Setting CVar [[r.RayTracing.AmbientOcclusion:0]]
+LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+LogConfig: Setting CVar [[r.AllowHDR:0]]
+LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+LogConfig: Setting CVar [[r.CustomDepth:3]]
+LogConfig: Setting CVar [[r.BasePassOutputsVelocity:1]]
+LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:1]]
+LogConfig: Setting CVar [[r.RayTracing:1]]
+LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+LogConfig: Setting CVar [[r.RayTracing.HybridTranslucencySupport:1]]
+LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:0]]
+LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:0]]
+LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:1]]
+LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:0]]
+LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+LogConfig: Setting CVar [[r.RayTracing.Reflections.MinRayDistance:-1]]
+LogConfig: Setting CVar [[r.RayTracing.Reflections.MaxRoughness:0.45 ; suggest ~0.3-0.6 for hangar, <=0.3 for game levels]]
+LogConfig: Setting CVar [[r.raytracing.reflections.heightfog:0]]
+LogConfig: Setting CVar [[r.RayTracing.ExcludeTranslucentsFromShadows:True ; best default match for raster behavior]]
+LogConfig: Setting CVar [[r.RayTracing.Reflections.Shadows:1 ; enable shadows in reflections...]]
+LogConfig: Setting CVar [[r.raytracing.reflections.screenpercentage:50 ; perhaps raise to 100 at low resolutions / ultra mode]]
+LogConfig: Setting CVar [[r.raytracing.reflections.sortmaterials:True ; use True for hangar - big win - but False for game levels where it's a small loss]]
+LogConfig: Setting CVar [[r.raytracing.excludedecals:1]]
+LogConfig: Setting CVar [[r.raytracing.translucency.refraction:0]]
+LogConfig: Setting CVar [[r.raytracing.translucency.maxrefractionrays:1]]
+LogConfig: Setting CVar [[r.raytracing.hybridtranslucency:1]]
+LogConfig: Setting CVar [[r.RayTracing.HybridTranslucency.DepthThreshold:0.15]]
+LogConfig: Setting CVar [[r.raytracing.translucency.maxraydistance:3500]]
+LogConfig: Setting CVar [[r.RayTracing.Shadow.MaxLights:16]]
+LogConfig: Setting CVar [[r.RayTracing.Shadow.MaxDenoisedLights:10]]
+LogConfig: Setting CVar [[r.raytracing.shadows.enabletwosidedgeometry:0 ; work around self-occlusion due to mismatching LODs between raster and RT]]
+LogConfig: Setting CVar [[r.RayTracing.Reflections.MaxRayDistance:4500]]
+LogConfig: Setting CVar [[r.reflections.denoiser.reconstructionsamples:64]]
+LogConfig: Setting CVar [[r.reflections.denoiser.temporalaccumulation:0 ; denoiser's TA causes fireflies and doesn't appear to be working well anyway]]
+LogConfig: Setting CVar [[r.Photography.Constrain.MaxCameraDistance:7500]]
+LogConfig: Setting CVar [[r.TemporalAA.Upsampling:1]]
+LogConfig: Setting CVar [[r.TemporalAACurrentFrameWeight:.01]]
+LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:30.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogConfig: Setting CVar [[s.AsyncLoadingTimeLimit:15.0]]
+LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+LogConfig: Setting CVar [[gc.CreateGCClusters:0]]
+LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[cook.displaymode:3]]
+LogConfig: Setting CVar [[cook.AllowCookedDataInEditorBuilds:1]]
+LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+LogConfig: Setting CVar [[foliage.LODDistanceScale:1.0]]
+LogConfig: Setting CVar [[foliage.MinimumScreenSize:0.0009]]
+LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+LogConfig: Setting CVar [[r.ShadowQuality:5]]
+LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+LogConfig: Setting CVar [[r.AOQuality:2]]
+LogConfig: Setting CVar [[r.VolumetricFog:1]]
+LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+LogConfig: Setting CVar [[r.ContactShadows:1]]
+LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+LogConfig: Setting CVar [[r.BloomQuality:5]]
+LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+LogConfig: Setting CVar [[r.SubsurfaceScattering:1]]
+LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+LogConfig: Setting CVar [[r.RefractionQuality:2]]
+LogConfig: Setting CVar [[r.SSR.Quality:3]]
+LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+LogConfig: Setting CVar [[r.DetailMode:2]]
+LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+LogConfig: Setting CVar [[r.SSS.Scale:1]]
+LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+LogConfig: Setting CVar [[r.SSS.Quality:1]]
+LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+LogConfig: Setting CVar [[r.DisableDistortion:0]]
+LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+LogConfig: Setting CVar [[foliage.LODDistanceScale:1.0]]
+LogConfig: Setting CVar [[foliage.MinimumScreenSize:0.0009]]
+LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+LogInit: Selected Device Profile: [Windows]
+LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+LogHAL: Display: Platform has ~ 16 GB [17125277696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+LogConfig: Setting CVar [[t.MaxFPS:120]]
+LogInit: Going up to parent DeviceProfile []
+LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+LogConfig: Setting CVar [[foliage.LODDistanceScale:1.0]]
+LogConfig: Setting CVar [[foliage.MinimumScreenSize:0.0009]]
+LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+LogConfig: Setting CVar [[r.ShadowQuality:5]]
+LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+LogConfig: Setting CVar [[r.AOQuality:2]]
+LogConfig: Setting CVar [[r.VolumetricFog:1]]
+LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+LogConfig: Setting CVar [[r.ContactShadows:1]]
+LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+LogConfig: Setting CVar [[r.BloomQuality:5]]
+LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+LogConfig: Setting CVar [[r.SubsurfaceScattering:1]]
+LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+LogConfig: Setting CVar [[r.Streaming.PoolSize:2100]]
+LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+LogConfig: Setting CVar [[r.RefractionQuality:2]]
+LogConfig: Setting CVar [[r.SSR.Quality:3]]
+LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+LogConfig: Setting CVar [[r.DetailMode:2]]
+LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+LogConfig: Setting CVar [[r.SSS.Scale:1]]
+LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+LogConfig: Setting CVar [[r.SSS.Quality:1]]
+LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+LogConfig: Setting CVar [[r.DisableDistortion:0]]
+LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+LogConfig: Setting CVar [[foliage.LODDistanceScale:1.0]]
+LogConfig: Setting CVar [[foliage.MinimumScreenSize:0.0009]]
+LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../MW5Mercs/Saved/Config/Windows/Scalability.ini]
+LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../MW5Mercs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[r.StaticMesh.StripMinLodDataDuringCooking:1]]
+LogConfig: Setting CVar [[r.SkeletalMesh.StripMinLodDataDuringCooking:1]]
+LogInit: Computer: WHITEHELM
+LogInit: User: Whitehelm
+LogInit: CPU Page size=4096, Cores=8
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Memory total: Physical=15.9GB (16GB approx)
+LogMemory: Platform Memory Stats for Windows
+LogMemory: Process Physical Memory: 122.20 MB used, 122.20 MB peak
+LogMemory: Process Virtual Memory: 100.93 MB used, 100.93 MB peak
+LogMemory: Physical Memory: 11207.59 MB used,  5124.35 MB free, 16331.94 MB total
+LogMemory: Virtual Memory: 134203752.00 MB used,  13976.07 MB free, 134217728.00 MB total
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+LogWindows: WindowsPlatformFeatures enabled
+LogInit: Physics initialised using underlying interface: PhysX
+LogInit: Using OS detected language (en-US).
+LogInit: Using OS detected locale (en-US).
+LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (../../../MW5Mercs/Intermediate/Shaders/WorkingDirectory/16188/).
+LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fearh/AppData/Local/Temp/UnrealShaderWorkingDir/669DD7B74F02D96FDAB3BC8C8F5C364B/'.
+LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+LogShaderCompilers: Display: Using Local Shader Compiler.
+LogDerivedDataCache: Display: Max Cache Size: 512 MB
+LogDerivedDataCache: Loaded boot cache 0.00s 0MB ../../../MW5Mercs/DerivedDataCache/Boot.ddc.
+LogDerivedDataCache: Display: Loaded Boot cache: ../../../MW5Mercs/DerivedDataCache/Boot.ddc
+LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../MW5Mercs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.01 seconds
+LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=318.54MBs, RandomWriteSpeed=192.84MBs. Assigned SpeedClass 'Local'
+LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+LogDerivedDataCache: Warning: Shared data cache path (\\piranha.internal\shares\projects\ghost\ddc\Main_4_26\DDC) is unavailable so cache will be disabled.
+LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+LogInit: Selected Device Profile: [Windows]
+LogInit: Active device profile: [000002556D6C3400][000002556B260100 49] Windows
+LogInit: Profiles: [000002556D6C3400][000002556B260100 49] Windows, [000002556D6A3200][000002556D72D600 49] WindowsNoEditor, [000002556D6C0D00][000002556D68C100 49] WindowsServer, [000002556D6A1100][000002556BDC5600 49] WindowsClient, 
+LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+LogMeshReduction: No distributed automatic mesh merging module available
+LogMeshMerging: No distributed automatic mesh merging module available
+LogNetVersion: MW5Mercs 1.0.0, NetCL: 0, EngineNetVer: 16, GameNetVer: 0 (Checksum: 389411521)
+LogMeshUtilities: Finished distance field build in 0.3s - 32x32x32 distance field, 528 triangles, Range [-0.6, 1.0], Sphere
+LogMeshUtilities: Discarded distance field for S_1_Unit_Plane as mesh was not closed!  Assign a two-sided material to fix.
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 32 triangles, Range [-0.4, 1.0], S_1_Unit_Plane
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1672 triangles, Range [-0.1, 0.4], SM_RailRig_Mount
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 1488 triangles, Range [-0.0, 0.4], SM_RailRig_Track
+LogMeshUtilities: Finished distance field build in 0.1s - 21x32x21 distance field, 916 triangles, Range [-0.1, 0.6], SM_CraneRig_Body
+LogMeshUtilities: Finished distance field build in 0.0s - 9x8x13 distance field, 200 triangles, Range [-0.3, 0.8], SM_CraneRig_Mount
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12 triangles, Range [-0.3, 0.3], SM_CraneRig_Arm
+LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.073497 seconds
+LogCollectionManager: Loaded 13 collections in 0.001337 seconds
+LogFileCache: Scanning file cache for directory 'D:/MechWarrior5Editor/MW5Mercs/Saved/Collections/' took 0.00s
+LogFileCache: Scanning file cache for directory 'D:/MechWarrior5Editor/MW5Mercs/Content/Developers/Whitehelm/Collections/' took 0.00s
+LogFileCache: Scanning file cache for directory 'D:/MechWarrior5Editor/MW5Mercs/Content/Collections/' took 0.00s
+LogCollectionManager: Fixed up redirectors for 13 collections in 0.000980 seconds (updated 0 objects)
+LogMeshUtilities: Finished distance field build in 0.1s - 31x27x20 distance field, 1068 triangles, Range [-0.1, 1.0], SM_CraneRig_Base
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.4, 0.6], SM_Sequencer_Node
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.0, 0.3], BoundingBoxEdge
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 172 triangles, Range [-0.0, 1.0], BoundingBoxCorner
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 120 triangles, Range [-0.0, 0.4], PlaneTranslationHandle
+LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 664 triangles, Range [-0.2, 0.7], SM_Sequencer_Key
+LogInit: Audiokinetic Audio Device initialization failed.
+LogPython: Using Python 3.7.7
+LogMeshUtilities: Finished distance field build in 0.2s - 30x30x30 distance field, 512 triangles, Range [-0.6, 0.8], Cylinder
+LogPython: Warning: sys:1: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+
+LogMeshUtilities: Finished distance field build in 0.0s - 9x8x9 distance field, 192 triangles, Range [-0.2, 0.6], Cylinder
+LogStats: UGameplayTagsManager::InitializeManager -  0.016 s
+MechWarriorLog: Starting MechWarrior: local-0 DEVELOPMENT CL0 (v1.1.0) PGI_DEBUG_MODE=1
+LogPython: Warning: 'EBBEvent' and 'BBEvent' have the same name (BBEvent) when exposed to Python. Rename one of them using 'ScriptName' meta-data.
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogUProjectInfo: Found projects:
+LogUProjectInfo:     MW5Mercs: "D:/MechWarrior5Editor/MW5Mercs/MW5Mercs.uproject"
+LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+LogOnline: OSS: Crossplay Online Subsystem Disabled
+LogUObjectArray: 31440 objects as part of root set at end of initial load.
+LogUObjectAllocator: 9282752 out of 0 bytes used by permanent object pool.
+LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+LogInit: Executing Class /Script/UnrealEd.CookCommandlet
+LogInit: Initializing Editor Engine...
+LogEngine: Initializing Engine...
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWAMSWeaponDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWMissileWeaponDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWProjectileWeaponDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWTraceWeaponDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWAmmoDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWBAPDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWECMDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWHeatSinkDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWJumpJetDataAsset
+LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWMASCDataAsset
+LogInit: Initializing FReadOnlyCVARCache
+LogAIModule: Creating AISystem for world Untitled
+LogNetVersion: Set ProjectVersion to 1.288.0. Version Checksum will be recalculated on next use.
+LogDerivedDataCache: Saved boot cache 0.00s 0MB ../../../MW5Mercs/DerivedDataCache/Boot.ddc.
+LogInit: Texture streaming: Disabled
+LogMeshUtilities: Finished distance field build in 0.2s - 30x30x30 distance field, 48 triangles, Range [-0.6, 0.6], Cube
+LogMeshUtilities: Finished distance field build in 0.2s - 30x30x30 distance field, 960 triangles, Range [-0.6, 1.0], Sphere
+LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogBlueprint: Warning: [AssetLog] D:\MechWarrior5Editor\MW5Mercs\Content\Objects\Humans\Mannequin\HumanPlayer.uasset: [Compiler] InputAction Event references unknown Action 'ToggleSprint' for  InputAction ToggleSprint
+LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogBlueprint: Warning: FMemberReference::ResolveMember (CreateToiFromEntry) bSelfContext == true, but no scope supplied!
+LogBlueprint: Warning: FMemberReference::ResolveMember (CreateToiFromEntry) bSelfContext == true, but no scope supplied!
+LogBlueprint: Warning: FMemberReference::ResolveMember (GetDisplayName) bSelfContext == true, but no scope supplied!
+LogMeshUtilities: Finished distance field build in 0.0s - 10x8x8 distance field, 360 triangles, Range [-0.0, 1.0], Axis_Guide
+LogMaterial: Display: Missing cached shader map for material Emissive_Unlit_Simple_MTL, compiling. 
+LogMeshUtilities: Finished distance field build in 0.0s - 8x24x8 distance field, 362 triangles, Range [-0.1, 0.5], Artillery_Ordnance_STM
+LogMaterial: Display: Missing cached shader map for material Particle_Opacity_MTL, compiling. 
+LogShaderCompilers: Display: Worker (1/13): shaders left to compile 120
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 110
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 100
+LogShaderCompilers: Display: Worker (4/13): shaders left to compile 90
+LogShaderCompilers: Display: Worker (5/13): shaders left to compile 80
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 70
+LogShaderCompilers: Display: Worker (7/13): shaders left to compile 60
+LogShaderCompilers: Display: Worker (8/13): shaders left to compile 50
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+LogShaderCompilers: Display: Worker (10/13): shaders left to compile 30
+LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+LogMaterial: Display: Missing cached shader map for material ImpactDecal_MTL, compiling. 
+LogShaderCompilers: Display: Worker (13/13): shaders left to compile 120
+LogMaterial: Display: Missing cached shader map for material ImpactDecal_MTL, compiling. 
+LogMaterial: Display: Missing cached shader map for material MaskedLinear_Vert_MTL, compiling. 
+LogMaterial: Display: Missing cached shader map for material Holo_Beam_MTL, compiling. 
+LogMeshUtilities: Finished distance field build in 0.3s - 32x32x32 distance field, 38 triangles, Range [-0.3, 0.9], Rock_Small_03_STM
+LogMaterial: Display: Missing cached shader map for material Loot_Beam_MTL, compiling. 
+LogMeshUtilities: Finished distance field build in 0.0s - 15x19x8 distance field, 10841 triangles, Range [-0.1, 0.9], HoloTable_Leopard
+LogMaterial: Display: Missing cached shader map for material MaskedLinear_Hor_MTL, compiling. 
+LogMaterial: Display: Missing cached shader map for material MaskedLinear_Hor_MTL, compiling. 
+LogMaterial: Display: Missing cached shader map for material ImpactDecal_MTL, compiling. 
+LogMeshUtilities: Finished distance field build in 0.1s - 30x30x30 distance field, 440 triangles, Range [1.0, 1.0], HoloTable_Cylinder_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 54 triangles, Range [-0.0, 0.7], Metal_Piece_01_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 98 triangles, Range [-0.1, 0.6], Metal_Piece_02_STM
+LogMaterial: Display: Missing cached shader map for material ImpactDecal_MTL, compiling. 
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 290 triangles, Range [-0.0, 1.0], Metal_Piece_03_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 170 triangles, Range [-0.0, 0.6], Metal_Piece_04_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 80 triangles, Range [-0.1, 0.9], Metal_Piece_05_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 224 triangles, Range [-0.4, 0.9], S_1_Unit_Sphere
+LogMeshUtilities: Discarded distance field for bubble3_STM as mesh was not closed!  Assign a two-sided material to fix.
+LogMeshUtilities: Finished distance field build in 0.0s - 10x13x8 distance field, 10382 triangles, Range [-0.2, 0.8], bubble3_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 4076 triangles, Range [-0.0, 1.0], bubble2_STM
+LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12 triangles, Range [-0.2, 1.0], Concrete_Piece_01_STM
+LogMeshUtilities: Discarded distance field for Raindrop_Splash_STM as mesh was not closed!  Assign a two-sided material to fix.
+LogMeshUtilities: Finished distance field build in 0.0s - 22x21x10 distance field, 200 triangles, Range [-0.2, 1.0], Raindrop_Splash_STM
+LogInit: Initializing Editor Engine Completed
+LogMeshUtilities: Discarded distance field for Plane as mesh was not closed!  Assign a two-sided material to fix.
+LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 2 triangles, Range [-0.2, 1.0], Plane
+MechWarriorEditor: MechWarriorEditor: Log Started
+MechWarriorFactory: MechWarriorFactory: Log Started
+LogMaterial: Display: Missing cached shader map for material HDRI_Projection, compiling. 
+LogMeshUtilities: Finished distance field build in 0.4s - 30x30x29 distance field, 284 triangles, Range [-0.4, 1.0], Cone
+LogMaterial: Display: Missing cached shader map for material HDRI_Projection, compiling. 
+BlueprintLog: New page: Editor Load
+LogDLSS: FDLSSModule::StartupModule Enter
+LogDLSS: PluginBaseDir ../../../Engine/Plugins/Runtime/Nvidia/DLSS
+LogDLSS: NGXBinariesDir ../../../Engine/Plugins/Runtime/Nvidia/DLSS/Binaries/ThirdParty/Win64/
+LogDLSS: GDynamicRHIName Unknown Null
+LogDLSS: NVIDIA NGX DLSS requires an NVIDIA RTX series graphics card
+LogDLSS: NVIDIA NGX DLSS supported 0
+LogDLSS: FDLSSModule::StartupModule Leave
+LogDLSSNGXRHI: FNGXRHIModule::StartupModule Enter
+LogDLSSNGXRHI: FNGXRHIModule::StartupModule Leave
+LogDLSSEditor: FDLSSEditorModule::StartupModule Enter
+LogDLSSEditor: DLSS module 00000255B8C99000, QueryDLSSSupport = 2 DLSSUpscaler = 0000000000000000
+LogDLSSEditor: FDLSSEditorModule::StartupModule Leave
+LogMeshUtilities: Finished distance field build in 0.2s - 29x29x15 distance field, 2160 triangles, Range [-0.1, 0.9], EnviroDome
+LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+LogCook: Display: Mobile HDR setting 1
+LogCook: Display: Creating asset registry
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 432
+LogShaderCompilers: Display: Worker (13/13): shaders left to compile 422
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 412
+LogShaderCompilers: Display: Worker (1/13): shaders left to compile 402
+LogShaderCompilers: Display: Worker (5/13): shaders left to compile 392
+LogShaderCompilers: Display: Worker (11/13): shaders left to compile 382
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 372
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 362
+LogShaderCompilers: Display: Worker (4/13): shaders left to compile 352
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 342
+LogShaderCompilers: Display: Worker (7/13): shaders left to compile 332
+LogShaderCompilers: Display: Worker (8/13): shaders left to compile 322
+LogShaderCompilers: Display: Worker (10/13): shaders left to compile 312
+LogShaderCompilers: Display: Worker (5/13): shaders left to compile 302
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 292
+LogShaderCompilers: Display: Worker (1/13): shaders left to compile 282
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 272
+LogShaderCompilers: Display: Worker (13/13): shaders left to compile 262
+LogShaderCompilers: Display: Worker (8/13): shaders left to compile 252
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 242
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 232
+LogShaderCompilers: Display: Worker (11/13): shaders left to compile 222
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 212
+LogShaderCompilers: Display: Worker (10/13): shaders left to compile 202
+LogShaderCompilers: Display: Worker (4/13): shaders left to compile 192
+LogShaderCompilers: Display: Worker (7/13): shaders left to compile 182
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 172
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 162
+LogShaderCompilers: Display: Worker (1/13): shaders left to compile 152
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 142
+LogShaderCompilers: Display: Worker (5/13): shaders left to compile 132
+LogShaderCompilers: Display: Worker (8/13): shaders left to compile 122
+LogShaderCompilers: Display: Worker (13/13): shaders left to compile 112
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 103
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 95
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 87
+LogShaderCompilers: Display: Worker (1/13): shaders left to compile 80
+LogShaderCompilers: Display: Worker (11/13): shaders left to compile 73
+LogShaderCompilers: Display: Worker (10/13): shaders left to compile 66
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 60
+LogShaderCompilers: Display: Worker (7/13): shaders left to compile 55
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 50
+LogShaderCompilers: Display: Worker (4/13): shaders left to compile 46
+LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+LogShaderCompilers: Display: Worker (13/13): shaders left to compile 15
+LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+LogCook: Display: Discovering localized assets for cultures: de, de-DE, de-LI, en, fr, fr-FR, ru, ru-RU
+LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+LogCook: Display: Sandbox cleanup took 0.056 seconds for platforms WindowsNoEditor
+LogCook: Temporarily Replacing PackageNameCache Asset Registry with the CookOnTheFlyServer's AssetRegistry to initialise Cache
+LogAssetManager: Display: ModifyDLCCook: Scanning Plugin Directory MarauderVariants for assets, and adding them to the cook list
+LogCook: Warning: Unable to find package for cooking /Game/Developers/omidkiarostami/SpectateMissionDirector
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_PPC_Fire
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_LaserM_Fire
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_LaserL_Fire
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_AC5_Fire
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_AC20_Fire
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_AC10_Fire
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footsonleopard
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootSonChaseclose
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footsonchase2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootSon2JJ
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootSon1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FoothunchBattle3
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootHunchBatte1GOOD
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDadChat
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootdadBattle3
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDadBattle2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDadBattle1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDad2JJ
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDad1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footcrabbattle4C
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footcrabbattle4Bcrush
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footcrabbattle4A
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootcrabBatte1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootCrab3Chat
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootCrab2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootCrab1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootcomBattle2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootComBatte1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_wind3
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_wind2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_wind
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_V_Explo
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_rain4thunder
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_Rain3
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_Rain2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_Rain1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOLMG
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL2Fly
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL1leopard3crash
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL1leopard2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL1leopard1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL1flybybattle
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL1Chase60
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_VTOL1Chase2Jump
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Twist
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Thunder
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Missile
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_MG_Impacts
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Mech_Explo
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Mech_Crush
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_wind
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_Thusters2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_Thusters1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_Takeoff
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_slowdown
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_idle
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Leopard_Flyoverstart
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Hunch1step
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Fire2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Fire1
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Explo_Death
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Explo_Base
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Dad_WEaponRDy
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Dad_Movesingle
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Dad_Move
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Dad4Step
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Dad3Step
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Crab_MoveSingle
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Crab_MoveLand
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Crab_Move2
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Crab_Move
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Crab_Land
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_End_Crab_BigMove
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_Com_Land
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_JumpJets_Ignite
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Vehicle_Explosions
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_PPC_Impact
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Laser_Impact_Stop
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Ground_Explosions
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Con_Lrg
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Build_Debris
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Building_Explosion
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Building_Destruction_Small
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Ballistic_Impacts_Far
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Ballistic_Impacts_Close
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Music/Story_Missions/Music_A3M3
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Dialogue/BB/BB_Super_Engaged
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Dialogue/BB/BB_Super_Destroyed
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Dialogue/BB/BB_Incoming_Artillery
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Dialogue/BB/BB_Ecm_Destroyed
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Dialogue/BB/BB_Artillery_Bombardment_Detected
+LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Leopard/Cine_Leo_Leop2
+LogCook: Display: Cooked packages 71083 Packages Remain 20411 Total 91494
+LogCook: Display: Cook Diagnostics: OpenFileHandles=10081, VirtualMemory=3914MiB
+LogCook: Display: PreloadableFile was created for /Game/UI/Options/Xbox/Gamepad but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /Game/UI/FrontEnd/TitleScreen/PlatformUserAgreement but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /Game/UI/Textures/TopNav/Top_Nav_DropDown_Border_BTN_UIX but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /Game/UI/Editor/Mods/ManageModEditorWidget but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /ModOverride/MarauderVariants/DLC1/CareerMode/Sidequests/Davion/D2/Career_PickingUpThePieces/D2_Prompt2 but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/_common/Config/MADMechStats but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/_common/Config/MADMechHealthStats but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/UnitCard/MAD-5T_UnitCard but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Woodland_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Virus_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Vagabond_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Urbanblock_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Tiger_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_TaurianConcordat_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Tartan_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Steiner_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Snowfall_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Sherman_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Razzledazzle_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Rasalhague_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Raider_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Polygon_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Phranken_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Periphery_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Outlaws_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Mountainline_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Marik_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_MAD-BH2_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Liao_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Kurita_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Independent_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Ie_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Hotrod_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Fractal_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Digital_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Default_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Davion_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Crusader_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: Cooking /Game/UI/Options/Xbox/Gamepad -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Content/UI/Options/Xbox/Gamepad.uasset
+LogCook: Display: Cooking /Game/UI/FrontEnd/TitleScreen/PlatformUserAgreement -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Content/UI/FrontEnd/TitleScreen/PlatformUserAgreement.uasset
+LogCook: Display: Cooking /Game/UI/Editor/Mods/ManageModEditorWidget -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Content/UI/Editor/Mods/ManageModEditorWidget.uasset
+LogCook: Display: Cooking /ModOverride/MarauderVariants/DLC1/CareerMode/Sidequests/Davion/D2/Career_PickingUpThePieces/D2_Prompt2 -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/ModOverride/DLC1/CareerMode/Sidequests/Davion/D2/Career_PickingUpThePieces/D2_Prompt2.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/_common/Config/MADMechStats -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/_common/Config/MADMechStats.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/_common/Config/MADMechHealthStats -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/_common/Config/MADMechHealthStats.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/UnitCard/MAD-5T_UnitCard -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/UnitCard/MAD-5T_UnitCard.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Woodland_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Woodland_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Virus_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Virus_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Vagabond_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Vagabond_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Urbanblock_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Urbanblock_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Tiger_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Tiger_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_TaurianConcordat_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_TaurianConcordat_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Tartan_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Tartan_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Steiner_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Steiner_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Snowfall_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Snowfall_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Sherman_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Sherman_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Razzledazzle_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Razzledazzle_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Rasalhague_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Rasalhague_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Raider_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Raider_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Polygon_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Polygon_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Phranken_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Phranken_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Periphery_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Periphery_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Outlaws_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Outlaws_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Mountainline_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Mountainline_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Marik_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Marik_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_MAD-BH2_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_MAD-BH2_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Liao_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Liao_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Kurita_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Kurita_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Independent_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Independent_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Ie_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Ie_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Hotrod_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Hotrod_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Fractal_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Fractal_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Digital_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Digital_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Default_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Default_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Davion_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Davion_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Crusader_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Crusader_SKN.uasset
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Comstar_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Cobra_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Cavalier_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Buccaneer_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_BlackInferno_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Applejack_SKN but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/MDA/MAD-5T_MDA but never used. This is wasteful and bad for cook performance.
+LogCook: Display: PreloadableFile was created for /MarauderVariants/Objects/Mechs/Marauder/Loadout/MAD-5T_Loadout but never used. This is wasteful and bad for cook performance.
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Comstar_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Comstar_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Cobra_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Cobra_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Cavalier_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Cavalier_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Buccaneer_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Buccaneer_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_BlackInferno_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_BlackInferno_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Skins/MarauderVar_Applejack_SKN -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Skins/MarauderVar_Applejack_SKN.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/MDA/MAD-5T_MDA -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/MDA/MAD-5T_MDA.uasset
+LogCook: Display: Cooking /MarauderVariants/Objects/Mechs/Marauder/Loadout/MAD-5T_Loadout -> D:/MechWarrior5Editor/MW5Mercs/Plugins/MarauderVariants/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/MarauderVariants/Content/Objects/Mechs/Marauder/Loadout/MAD-5T_Loadout.uasset
+LogCook: Display: Cooked packages 71128 Packages Remain 0 Total 71128
+LogCook: Display: Cook Diagnostics: OpenFileHandles=10137, VirtualMemory=3932MiB
+LogCook: Display: Finishing up...
+LogCook: Display: Saving BulkData manifest(s)...
+LogCook: Display: Done saving BulkData manifest(s)
+LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+LogAssetRegistryGenerator: Chunk: 0, Started with 42 packages, Final after dependency resolve: 42
+LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+LogAssetRegistryGenerator: Display: Saving asset registry.
+LogAssetRegistryGenerator: Display: Generated asset registry num assets 42, size is 17.25kb
+LogAssetRegistryGenerator: Display: Done saving asset registry.
+LogCook: Display: Cook by the book total time in tick 0.341590s total time 39.799862
+LogCook: Display: Peak Used virtual 4218 MiB Peak Used physical 4137 MiB
+LogCook: Display: Hierarchy Timer Information:
+LogCook: Display:   Root: 0.000s (0)
+LogCook: Display:     CleanSandbox: 0.056s (1)
+LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+LogCook: Display:     CollectFilesToCook: 0.522s (1)
+LogCook: Display:       CookModificationDelegate: 0.460s (1)
+LogCook: Display:     GenerateLongPackageName: 0.055s (1)
+LogCook: Display:     TickCookOnTheSide: 0.342s (2)
+LogCook: Display:       PostLoadPackageFixup: 0.004s (20667)
+LogCook: Display:       LoadPackageForCooking: 0.174s (46)
+LogCook: Display:       SavingPackages: 0.124s (3)
+LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.000s (2)
+LogCook: Display:         PrecachePlatformDataForNextPackage: 0.000s (43)
+LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.000s (43)
+LogCook: Display:         SaveCookedPackage: 0.124s (45)
+LogCook: Display:           GEditorSavePackage: 0.102s (45)
+LogCook: Display:             ConvertingBlueprints: 0.005s (45)
+LogCook: Display:             VerifyCanCookPackage: 0.000s (42)
+LogCook: Display:         ClearAllCachedCookedPlatformData: 0.000s (45)
+LogCook: Display:     FinalizePackageStore: 0.001s (1)
+LogCook: Display:     GeneratingBlueprintAssets: 0.007s (1)
+LogCook: Display:     SavingCurrentIniSettings: 0.020s (1)
+LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+LogCook: Display:     SavingAssetRegistry: 3.645s (1)
+LogCook: Display:       RemovingOldManifestEntries: 0.002s (1)
+LogCook: Display:       BuildChunkManifest: 0.912s (1)
+LogCook: Display:       SaveManifests: 0.002s (1)
+LogCook: Display:       SaveRealAssetRegistry: 2.165s (1)
+LogCook: Display:       WriteCookerOpenOrder: 0.549s (1)
+LogCook: Display: Done!
+LogCookCommandlet: Display: Misc Cook Stats
+LogCookCommandlet: Display: ===============
+LogCookCommandlet: Display: NiagaraShader.Misc
+LogCookCommandlet: Display:     ShadersCompiled=0
+LogCookCommandlet: Display: ShaderCompiler
+LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+LogCookCommandlet: Display:     AsyncCompileTimeSec=471.013039
+LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.387374
+LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=562
+LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.022570
+LogCookCommandlet: Display: GlobalShader.Misc
+LogCookCommandlet: Display:     ShadersCompiled=0
+LogCookCommandlet: Display: MeshMaterial.Misc
+LogCookCommandlet: Display:     ShadersCompiled=533
+LogCookCommandlet: Display: MaterialShader.Misc
+LogCookCommandlet: Display:     ShadersCompiled=29
+LogCookCommandlet: Display: Package.Load
+LogCookCommandlet: Display:     NumPreloadedDependencies=1
+LogCookCommandlet: Display:     NumInlineLoads=10
+LogCookCommandlet: Display:     NumPackagesLoaded=7218
+LogCookCommandlet: Display:     LoadPackageTimeSec=37.092777
+LogCookCommandlet: Display: CookOnTheFlyServer
+LogCookCommandlet: Display:     PeakRequestQueueSize=20411
+LogCookCommandlet: Display:     PeakLoadQueueSize=46
+LogCookCommandlet: Display:     PeakSaveQueueSize=37
+LogCookCommandlet: Display: Package.Save
+LogCookCommandlet: Display:     NumPackagesSaved=45
+LogCookCommandlet: Display:     SavePackageTimeSec=0.096818
+LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.042420
+LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.007532
+LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000033
+LogCookCommandlet: Display:     ResetLoadersTimeSec=0.000192
+LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.000397
+LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000023
+LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.006962
+LogCookCommandlet: Display:     SerializeExportsTimeSec=0.014808
+LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.000000
+LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+LogCookCommandlet: Display:     MBWritten=0.623775
+LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+LogCookCommandlet: Display: Package.DiffTotal
+LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+LogCookCommandlet: Display: UnversionedProperties
+LogCookCommandlet: Display:     SavedStructs=0
+LogCookCommandlet: Display:     SavedMB=0
+LogCookCommandlet: Display:     EquivalentTaggedMB=0
+LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+LogCookCommandlet: Display:     BitfieldWasteKB=0
+LogCookCommandlet: Display: 
+LogCookCommandlet: Display: Cook Profile
+LogCookCommandlet: Display: ============
+LogCookCommandlet: Display:  0.CookWallTimeSec=88.947410
+LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=49.123104
+LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=39.822059
+LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=35.772665
+LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.460190
+LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=4.017684
+LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.174330
+LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.123707
+LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.000426
+LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000003
+LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.022577
+LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000150
+LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000001
+LogCookCommandlet: Display: 
+LogCookCommandlet: Display: DDC Summary Stats
+LogCookCommandlet: Display: =================
+LogCookCommandlet: Display: TotalGetHits    =       115
+LogCookCommandlet: Display: TotalGets       =       163
+LogCookCommandlet: Display: TotalGetHitPct  =  0.705521
+LogCookCommandlet: Display: LocalGetHitPct  =  0.392638
+LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+LogCookCommandlet: Display: OtherGetHitPct  =  0.312883
+LogCookCommandlet: Display: GetMissPct      =  0.294479
+LogCookCommandlet: Display: TotalPutHits    =         0
+LogCookCommandlet: Display: TotalPuts       =         0
+LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+LogCookCommandlet: Display: PutMissPct      =  0.000000
+LogCookCommandlet: Display: 
+LogCookCommandlet: Display: DDC Resource Stats
+LogCookCommandlet: Display: =======================================================================================================
+LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+LogCookCommandlet: Display: MaterialShader                                  0.09                   0.09             0          0.29
+LogCookCommandlet: Display: StaticMesh                                      0.02                   0.02             0          2.34
+LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          2.22
+LogCookCommandlet: Display: PhysX (BodySetup)                               0.01                   0.01             0          0.66
+LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.03
+LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.00
+LogCookCommandlet: Display: SubUVAnimation                                  0.00                   0.00             0          0.00
+LogCore: Engine exit requested (reason: Commandlet CookCommandlet_0 finished execution (result 0))
+LogInit: Display: 
+LogInit: Display: Warning/Error Summary (Unique only)
+LogInit: Display: -----------------------------------
+LogInit: Display: LogDerivedDataCache: Warning: Shared data cache path (\\piranha.internal\shares\projects\ghost\ddc\Main_4_26\DDC) is unavailable so cache will be disabled.
+LogInit: Display: LogPython: Warning: sys:1: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+
+LogInit: Display: LogPython: Warning: 'EBBEvent' and 'BBEvent' have the same name (BBEvent) when exposed to Python. Rename one of them using 'ScriptName' meta-data.
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWAMSWeaponDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWMissileWeaponDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWProjectileWeaponDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWWeaponDataAsset - Conflicts with MWTraceWeaponDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWAmmoDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWBAPDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWECMDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWHeatSinkDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWJumpJetDataAsset
+LogInit: Display: LogAssetManager: Warning: Ignoring PrimaryAssetType MWEquipmentDataAsset - Conflicts with MWMASCDataAsset
+LogInit: Display: LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+LogInit: Display: LogBlueprint: Warning: [AssetLog] D:\MechWarrior5Editor\MW5Mercs\Content\Objects\Humans\Mannequin\HumanPlayer.uasset: [Compiler] InputAction Event references unknown Action 'ToggleSprint' for  InputAction ToggleSprint
+LogInit: Display: LogBlueprint: Warning: FMemberReference::ResolveMember (CreateToiFromEntry) bSelfContext == true, but no scope supplied!
+LogInit: Display: LogBlueprint: Warning: FMemberReference::ResolveMember (GetDisplayName) bSelfContext == true, but no scope supplied!
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Developers/omidkiarostami/SpectateMissionDirector
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_PPC_Fire
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_LaserM_Fire
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_LaserL_Fire
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_AC5_Fire
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_AC20_Fire
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_AC10_Fire
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footsonleopard
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootSonChaseclose
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footsonchase2
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootSon2JJ
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootSon1
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FoothunchBattle3
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootHunchBatte1GOOD
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDadChat
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootdadBattle3
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDadBattle2
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDadBattle1
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDad2JJ
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootDad1
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footcrabbattle4C
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footcrabbattle4Bcrush
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_Footcrabbattle4A
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootcrabBatte1
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootCrab3Chat
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootCrab2
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootCrab1
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootcomBattle2
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Foot/Cine_Tut_End_FootComBatte1
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_wind3
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_wind2
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_wind
+LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Audio/Events/Cinematics/Tut_End/Cine_Tut_V_Explo
+LogInit: Display: NOTE: Only first 50 warnings displayed.
+LogInit: Display: 
+LogInit: Display: Success - 0 error(s), 116 warning(s)
+LogInit: Display: 
+Execution of commandlet took:  39.84 seconds
+LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+LogExit: Preparing to exit.
+LogUObjectHash: Compacting FUObjectHashTables data took  12.68ms
+LogDeviceProfile: Device profile begin destroy: [000002556D6C3400] Windows
+LogDeviceProfile: Device profile begin destroy: [000002556D6C3300] Default__DeviceProfile
+LogDeviceProfile: Device profile begin destroy: [000002556D6A3200] WindowsNoEditor
+LogDeviceProfile: Device profile begin destroy: [000002556D6C0D00] WindowsServer
+LogDeviceProfile: Device profile begin destroy: [000002556D6A1100] WindowsClient
+LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+LogExit: Editor shut down
+LogExit: Object subsystem successfully closed.
+LogShaderCompilers: Display: Shaders left to compile 0
+LogModuleManager: Shutting down and abandoning module BlueprintCompilerCppBackend (620)
+LogModuleManager: Shutting down and abandoning module DLSSEditor (616)
+LogDLSSEditor: FDLSSEditorModule::ShutdownModule Enter
+LogDLSSEditor: FDLSSEditorModule::ShutdownModule Leave
+LogModuleManager: Shutting down and abandoning module NGXVulkanRHI (614)
+LogModuleManager: Shutting down and abandoning module NGXD3D12RHI (612)
+LogModuleManager: Shutting down and abandoning module NGXD3D11RHI (610)
+LogModuleManager: Shutting down and abandoning module NGXRHI (608)
+LogDLSSNGXRHI: FNGXRHIModule::ShutdownModule Enter
+LogDLSSNGXRHI: FNGXRHIModule::ShutdownModule Leave
+LogModuleManager: Shutting down and abandoning module DLSSBlueprint (606)
+LogModuleManager: Shutting down and abandoning module DLSS (604)
+LogDLSS: FDLSSModule::ShutdownModule Enter
+LogDLSS: FDLSSModule::ShutdownModule Leave
+LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (602)
+LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (600)
+LogModuleManager: Shutting down and abandoning module Kismet (599)
+LogModuleManager: Shutting down and abandoning module KismetWidgets (598)
+LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (594)
+LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (592)
+LogModuleManager: Shutting down and abandoning module HDRIBackdrop (590)
+LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+LogModuleManager: Shutting down and abandoning module SequenceRecorder (587)
+LogModuleManager: Shutting down and abandoning module Persona (586)
+LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (585)
+LogModuleManager: Shutting down and abandoning module AnimGraph (583)
+LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (576)
+LogModuleManager: Shutting down and abandoning module TextureAlignMode (574)
+LogModuleManager: Shutting down and abandoning module BspMode (572)
+LogModuleManager: Shutting down and abandoning module GeometryMode (570)
+LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (568)
+LogModuleManager: Shutting down and abandoning module SmartSnapping (566)
+LogModuleManager: Shutting down and abandoning module MechWarriorFactory (564)
+MechWarriorFactory: MechWarriorFactory: Log Ended
+LogModuleManager: Shutting down and abandoning module MechWarriorEditor (562)
+MechWarriorEditor: MechWarriorEditor: Log Ended
+LogModuleManager: Shutting down and abandoning module MeshPaint (560)
+LogModuleManager: Shutting down and abandoning module Settings (559)
+LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (556)
+LogModuleManager: Shutting down and abandoning module FoliageEdit (554)
+LogModuleManager: Shutting down and abandoning module LandscapeEditor (552)
+LogModuleManager: Shutting down and abandoning module MeshPaintMode (550)
+LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (548)
+LogModuleManager: Shutting down and abandoning module ActorPickerMode (546)
+LogModuleManager: Shutting down and abandoning module PlacementMode (544)
+LogModuleManager: Shutting down and abandoning module LiveCoding (542)
+LogModuleManager: Shutting down and abandoning module LevelSequence (540)
+LogModuleManager: Shutting down and abandoning module MovieSceneTracks (538)
+LogModuleManager: Shutting down and abandoning module MovieScene (536)
+LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (534)
+LogModuleManager: Shutting down and abandoning module ImageWriteQueue (532)
+LogModuleManager: Shutting down and abandoning module AIModule (530)
+LogModuleManager: Shutting down and abandoning module AITestSuite (529)
+LogModuleManager: Shutting down and abandoning module NavigationSystem (527)
+LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (524)
+LogModuleManager: Shutting down and abandoning module BinkMediaPlayerEditor (522)
+LogModuleManager: Shutting down and abandoning module OceanPlugin (520)
+LogModuleManager: Shutting down and abandoning module LowEntryJsonEditor (518)
+LogModuleManager: Shutting down and abandoning module DialoguePluginEditor (516)
+LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (514)
+LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (512)
+LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (510)
+LogModuleManager: Shutting down and abandoning module ToolMenus (509)
+LogModuleManager: Shutting down and abandoning module ScreenshotTools (506)
+LogModuleManager: Shutting down and abandoning module FunctionalTestingEditor (504)
+LogModuleManager: Shutting down and abandoning module FbxAutomationTestBuilder (502)
+LogModuleManager: Shutting down and abandoning module EditorTests (500)
+LogModuleManager: Shutting down and abandoning module OnlineSubsystemCrossplay (498)
+LogModuleManager: Shutting down and abandoning module SynthesisEditor (496)
+LogModuleManager: Shutting down and abandoning module Synthesis (494)
+LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (492)
+LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (490)
+LogModuleManager: Shutting down and abandoning module TemplateSequence (488)
+LogModuleManager: Shutting down and abandoning module EditableMesh (486)
+LogModuleManager: Shutting down and abandoning module FieldSystemEngine (485)
+LogModuleManager: Shutting down and abandoning module CustomMeshComponent (482)
+LogModuleManager: Shutting down and abandoning module CableComponent (480)
+LogModuleManager: Shutting down and abandoning module AssetTags (478)
+LogModuleManager: Shutting down and abandoning module AudioCapture (476)
+LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (475)
+LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (472)
+LogModuleManager: Shutting down and abandoning module AppleImageUtils (470)
+LogModuleManager: Shutting down and abandoning module ArchVisCharacter (468)
+LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (466)
+LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (464)
+LogModuleManager: Shutting down and abandoning module RawInput (462)
+LogModuleManager: Shutting down and abandoning module MotoSynthEditor (460)
+LogModuleManager: Shutting down and abandoning module MotoSynth (458)
+LogModuleManager: Shutting down and abandoning module MeshConversion (456)
+LogModuleManager: Shutting down and abandoning module DynamicMesh (454)
+LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (452)
+LogModuleManager: Shutting down and abandoning module GeometricObjects (450)
+LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (446)
+LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (442)
+LogModuleManager: Shutting down and abandoning module AutomationUtils (440)
+LogModuleManager: Shutting down and abandoning module AlembicImporter (438)
+LogModuleManager: Shutting down and abandoning module AlembicLibrary (437)
+LogModuleManager: Shutting down and abandoning module GeometryCache (436)
+LogModuleManager: Shutting down and abandoning module GeometryCacheEd (435)
+LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (430)
+LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (428)
+LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (426)
+LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (424)
+LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (422)
+LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (420)
+LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (418)
+LogModuleManager: Shutting down and abandoning module UObjectPlugin (416)
+LogModuleManager: Shutting down and abandoning module SubversionSourceControl (414)
+LogModuleManager: Shutting down and abandoning module PluginUtils (412)
+LogModuleManager: Shutting down and abandoning module PerforceSourceControl (410)
+LogModuleManager: Shutting down and abandoning module AnimationSharingEd (408)
+LogModuleManager: Shutting down and abandoning module PlasticSourceControl (406)
+LogModuleManager: Shutting down and abandoning module GitSourceControl (404)
+LogModuleManager: Shutting down and abandoning module SourceControl (403)
+LogModuleManager: Shutting down and abandoning module CurveEditorTools (400)
+LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (398)
+LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (396)
+LogModuleManager: Shutting down and abandoning module PluginBrowser (394)
+LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (392)
+LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (390)
+LogModuleManager: Shutting down and abandoning module CryptoKeys (388)
+LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (386)
+LogModuleManager: Shutting down and abandoning module PaperTiledImporter (384)
+LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (382)
+LogModuleManager: Shutting down and abandoning module Paper2DEditor (380)
+LogModuleManager: Shutting down and abandoning module AudiokineticTools (378)
+LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (376)
+LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (374)
+LogModuleManager: Shutting down and abandoning module MechWarrior (372)
+LogModuleManager: Shutting down and abandoning module GameplayDebugger (371)
+LogModuleManager: Shutting down and abandoning module VictoryBPLibrary (368)
+LogModuleManager: Shutting down and abandoning module LowEntryJson (366)
+LogModuleManager: Shutting down and abandoning module DialoguePlugin (364)
+LogModuleManager: Shutting down and abandoning module RuntimeTests (362)
+LogModuleManager: Shutting down and abandoning module WebBrowserWidget (360)
+LogModuleManager: Shutting down and abandoning module WebBrowser (359)
+LogModuleManager: Shutting down and abandoning module UdpMessaging (356)
+LogModuleManager: Shutting down and abandoning module TcpMessaging (354)
+LogModuleManager: Shutting down and abandoning module SoundFields (352)
+LogModuleManager: Shutting down and abandoning module SignificanceManager (350)
+LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (348)
+LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (346)
+LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (344)
+LogModuleManager: Shutting down and abandoning module ActorSequence (340)
+LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (338)
+LogModuleManager: Shutting down and abandoning module AudioSynesthesia (336)
+LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (334)
+LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (332)
+LogModuleManager: Shutting down and abandoning module ApexDestruction (330)
+LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (328)
+LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (326)
+LogModuleManager: Shutting down and abandoning module Niagara (324)
+LogModuleManager: Shutting down and abandoning module SignalProcessing (323)
+LogModuleManager: Shutting down and abandoning module NiagaraEditor (321)
+LogModuleManager: Shutting down and abandoning module NiagaraCore (318)
+LogModuleManager: Shutting down and abandoning module MagicLeapARPin (316)
+LogModuleManager: Shutting down and abandoning module PropertyAccessNode (314)
+LogModuleManager: Shutting down and abandoning module AnimationSharing (312)
+LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (306)
+LogModuleManager: Shutting down and abandoning module DataValidation (304)
+LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+LogModuleManager: Shutting down and abandoning module TreeMap (301)
+LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+LogModuleManager: Shutting down and abandoning module Paper2D (294)
+LogModuleManager: Shutting down and abandoning module AkAudio (292)
+LogModuleManager: Shutting down and abandoning module ChromaSDKPlugin (290)
+LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (288)
+LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+LogModuleManager: Shutting down and abandoning module Overlay (276)
+LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+LogModuleManager: Shutting down and abandoning module Blutility (272)
+LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+LogModuleManager: Shutting down and abandoning module MainFrame (266)
+LogModuleManager: Shutting down and abandoning module HotReload (265)
+LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+LogModuleManager: Shutting down and abandoning module CollectionManager (260)
+LogModuleManager: Shutting down and abandoning module ContentBrowserData (258)
+LogModuleManager: Shutting down and abandoning module IntroTutorials (254)
+LogModuleManager: Shutting down and abandoning module VREditor (252)
+LogModuleManager: Shutting down and abandoning module StringTableEditor (250)
+LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (248)
+LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (246)
+LogModuleManager: Shutting down and abandoning module FunctionalTesting (244)
+LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (242)
+LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (241)
+LogModuleManager: Shutting down and abandoning module UMG (238)
+LogModuleManager: Shutting down and abandoning module UMGEditor (237)
+LogModuleManager: Shutting down and abandoning module MessageLog (235)
+LogModuleManager: Shutting down and abandoning module SlateReflector (230)
+LogModuleManager: Shutting down and abandoning module Slate (228)
+LogModuleManager: Shutting down and abandoning module SlateCore (226)
+LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (224)
+LogModuleManager: Shutting down and abandoning module UnrealEd (222)
+LogModuleManager: Shutting down and abandoning module MRMesh (220)
+LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+LogModuleManager: Shutting down and abandoning module Networking (212)
+LogModuleManager: Shutting down and abandoning module Core (210)
+LogModuleManager: Shutting down and abandoning module Media (208)
+LogModuleManager: Shutting down and abandoning module XSXMediaInfo (207)
+LogModuleManager: Shutting down and abandoning module XboxOneGDKMediaInfo (205)
+LogModuleManager: Shutting down and abandoning module WinGDKMediaInfo (203)
+LogModuleManager: Shutting down and abandoning module MediaInfo (201)
+LogModuleManager: Shutting down and abandoning module MovieSceneTools (198)
+LogModuleManager: Shutting down and abandoning module CurveEditor (197)
+LogModuleManager: Shutting down and abandoning module Sequencer (195)
+LogModuleManager: Shutting down and abandoning module EditorStyle (194)
+LogModuleManager: Shutting down and abandoning module KismetCompiler (190)
+LogModuleManager: Shutting down and abandoning module MeshBuilder (188)
+LogModuleManager: Shutting down and abandoning module MeshUtilities (186)
+LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (185)
+LogModuleManager: Shutting down and abandoning module MeshReductionInterface (184)
+LogModuleManager: Shutting down and abandoning module MeshBoneReduction (183)
+LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+LogModuleManager: Shutting down and abandoning module DirectoryWatcher (169)
+LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+LogModuleManager: Shutting down and abandoning module NullDrv (164)
+LogModuleManager: Shutting down and abandoning module PhysXCooking (162)
+LogModuleManager: Shutting down and abandoning module Chaos (160)
+LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (158)
+LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (157)
+LogModuleManager: Shutting down and abandoning module AVEncoder (156)
+LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+LogModuleManager: Shutting down and abandoning module XSXTextureFormat (141)
+LogModuleManager: Shutting down and abandoning module XboxOneGDKTextureFormat (139)
+LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (133)
+LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+LogModuleManager: Shutting down and abandoning module XMAAudioFormat (123)
+LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (115)
+LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (113)
+LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (109)
+LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (105)
+LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (103)
+LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (97)
+LogModuleManager: Shutting down and abandoning module Messaging (93)
+LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (91)
+LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (89)
+LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+LogModuleManager: Shutting down and abandoning module MWShaders (82)
+LogModuleManager: Shutting down and abandoning module NGXVulkanRHIPreInit (80)
+LogDLSSNGXVulkanRHIPreInit: FNGXVulkanRHIPreInitModule::ShutdownModule Enter
+LogDLSSNGXVulkanRHIPreInit: FNGXVulkanRHIPreInitModule::ShutdownModule Leave
+LogModuleManager: Shutting down and abandoning module DLSSUtility (78)
+LogModuleManager: Shutting down and abandoning module Ansel (76)
+LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+LogModuleManager: Shutting down and abandoning module HTTP (67)
+LogHttp: Display: cleaning up 0 outstanding Http requests.
+LogModuleManager: Shutting down and abandoning module SSL (66)
+LogModuleManager: Shutting down and abandoning module ChunkDownloader (62)
+LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (60)
+LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+LogModuleManager: Shutting down and abandoning module XGEController (40)
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+LogModuleManager: Shutting down and abandoning module RenderCore (30)
+LogModuleManager: Shutting down and abandoning module Landscape (28)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+LogModuleManager: Shutting down and abandoning module Renderer (18)
+LogModuleManager: Shutting down and abandoning module Engine (16)
+LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+LogExit: Exiting.
+Log file closed, 06/20/21 22:16:00
